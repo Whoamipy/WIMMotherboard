@@ -17,4 +17,3 @@
 		Example for Virtualenv :
 		pip freeze --local > requirements/local.txt
 
-
